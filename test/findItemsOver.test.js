@@ -1,5 +1,5 @@
 import assert from "assert";
-import findItemsOver from "../findItemsOver.js"
+import findItemsOver from "../JS/findItemsOver.js"
 
 describe('The finditemsOver function', function(){
     let fruitsEat = [

@@ -1,5 +1,5 @@
 import assert from "assert"
-import isFromBellville from "../isFromBelleville.js"
+import isFromBellville from "../JS/isFromBelleville.js"
 
 describe('Test my isFromBellvile function' , function(){
     it('should return "true" if the reg.no. is from Bellville (starts with CY)and false if not' , function(){

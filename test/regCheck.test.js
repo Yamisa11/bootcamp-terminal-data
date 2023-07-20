@@ -1,5 +1,5 @@
 import assert from "assert"
-import regCheck from "../regCheck.js"
+import regCheck from "../JS/regCheck.js"
 
 describe('Test my regCheck function' , function(){
     it('should return "true" if the reg.no.(first param) ends with locationIndicator (second param) and false if not' , function(){

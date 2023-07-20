@@ -1,5 +1,5 @@
 import assert from 'assert'
-import mostProfitableDepartment from '../mostProfitableDepartment.js'
+import mostProfitableDepartment from '../JS/mostProfitableDepartment.js'
 
 
 describe('Test my mostProfitableDepartment function' , function(){

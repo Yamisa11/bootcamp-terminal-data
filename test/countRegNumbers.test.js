@@ -1,5 +1,5 @@
 import assert from "assert";
-import countRegNumber from "../countRegNumber.js"
+import countRegNumber from "../JS/countRegNumber.js"
 
 describe('The countRegNumber function', function(){
 

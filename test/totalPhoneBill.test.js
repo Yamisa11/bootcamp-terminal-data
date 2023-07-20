@@ -1,5 +1,5 @@
 import assert from 'assert'
-import totalPhoneBill from '../totalPhoneBill.js'
+import totalPhoneBill from '../JS/totalPhoneBill.js'
 
 describe('Test my totalPhoneBilltion' , function(){
     it('should return total amount of bill (sms&calls cost) in a given string after splitting it' , function(){
